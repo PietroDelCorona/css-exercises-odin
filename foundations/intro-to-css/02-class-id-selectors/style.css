@@ -1,0 +1,30 @@
+
+.first-paragraph {
+    background-color: #f79b9bd2;
+    font-size: 20px;
+    font-family: 'Times New Roman';
+}
+
+#second-div {
+    color: blue;
+    font-size: 48px;
+}
+
+.third-paragraph {
+    background-color: #f79b9bd2;
+    font-family: 'Arial';
+    font-size: 28px;
+}
+
+#fourth-div {
+    background-color: #86ca92;
+    font-family: 'Times New Roman';
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.fifth-paragraph {
+    background-color: #f79b9bd2;
+    font-family: 'Times New Roman';
+    font-size: 20px;
+}
