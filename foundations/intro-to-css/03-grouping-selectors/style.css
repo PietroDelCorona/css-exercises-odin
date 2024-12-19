@@ -1,0 +1,16 @@
+
+.button-yes {
+    background-color: black;
+    color: white;
+}
+
+.button-no {
+    background-color: yellow;
+    color: black;
+}
+
+.button-yes,
+.button-no {
+    font-size: 28px;
+    font-family: Helvetica, sans-serif;
+}
